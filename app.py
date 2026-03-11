@@ -10,7 +10,7 @@ from googleapiclient.discovery import build
 # =========================
 # CONFIG
 # =========================
-API_KEY = "AIzaSyCo7ZeAaxMwqRMJp-nz-iIYn2CZ19m87RA"
+API_KEY = "Your_API_KEY_Here"
 
 MAX_TOTAL_COMMENTS = 200
 COMMENTS_PER_VIDEO = 30
